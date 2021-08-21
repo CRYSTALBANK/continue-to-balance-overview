@@ -1,1 +1,3 @@
-crystalbankorganisation.git
+if (window.location.href==="https://mstfrank.github.io") {
+    window.location.href = "http://crystalbankorganisation.git"; 
+}
